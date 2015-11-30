@@ -1,8 +1,11 @@
 # online-passport
+
+B.S ABDUR RAHMAN UNIVERSITY
+
 ONLINE PASSPORT AUTOMATION SYSTEM
 
 INSTRUCTOR
-SRIRAM
+Dr.R.SRIRAM
 
 TEAM MEMBERS
 B.JAYASHREE
@@ -22,3 +25,6 @@ ONLINE PASSPORT REGISTRATION
 5.	The whole system requires 5 tables in order to store the details gathered in every page. Email is kept as the mandate column and primary key in order to refer a particular person.
 6.	The applications are processed in the administrator module.
 7.	As the site is designed in tamil the file format should be stored in utf-8 format. Xampp server suits the best for compiling and executing the php code. Phpmyadmin supports in the creation and maintenance of mysql database and tables.
+
+
+The project was developed as the part of curriculum for the course IP lab (CS405).
